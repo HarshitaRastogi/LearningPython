@@ -1,1 +1,2 @@
 # LearningPython
+The easy way
