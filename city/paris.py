@@ -1,0 +1,2 @@
+print("London")
+print("Paris")
